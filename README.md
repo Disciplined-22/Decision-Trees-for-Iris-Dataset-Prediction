@@ -6,6 +6,6 @@ When you provide input (like the characteristics of an Iris flower), the Decisio
 
 ## Conclusion
 
-The accuracy of this Decision Tree model is an impressive 96% on the Iris dataset! 🌿🎉. For more information and to check out the code click on [Decision Tree.ipynb file.](https://github.com/Disciplined-22/Decision_Trees-for-Iris-Dataset-Prediction/blob/main/Decision_Trees.ipynb)
+The accuracy of this Decision Tree model is an impressive 96% on the Iris dataset! 🌿🎉. For more information and to check out the code click on [Decision_Trees.ipynb file](https://github.com/Disciplined-22/Decision_Trees-for-Iris-Dataset-Prediction/blob/main/Decision_Trees.ipynb)
 
 
