@@ -1,1 +1,1 @@
-# Decision-Trees-for-Iris-Dataset-Prediction
+# Random-Forest-for-Iris-Dataset-Prediction
